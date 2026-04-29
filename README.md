@@ -64,7 +64,7 @@ ai-config-validator/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/ai-config-validator.git
+git clone https://github.com/shakirbhattt/ai-config-validator.git
 cd ai-config-validator
 ```
 
